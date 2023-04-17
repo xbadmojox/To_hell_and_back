@@ -32068,3 +32068,228 @@ Script Stack (0 frames):
 [2023.04.17-23.39.35:284][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.04.17-23.39.35:286][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
 [2023.04.17-23.39.35:325][278]LogPlayLevel: Display: Destroying online subsystem :Context_242
+[2023.04.17-23.41.45:102][420]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.04.17-23.41.45:115][420]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.17-23.42.40:284][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DODIK_Atack" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Atack.uasset" SILENT=true
+[2023.04.17-23.42.40:299][  6]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/DODIK_Atack248A13E343076FC4D46709A5206F7576.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Atack.uasset'
+[2023.04.17-23.42.40:309][  6]AssetCheck: New page: Asset Save: DODIK_Atack
+[2023.04.17-23.42.40:309][  6]LogContentValidation: Display: Validating Blueprint /Game/AI/DODIK_Atack.DODIK_Atack
+[2023.04.17-23.42.42:684][239]BlueprintLog: New page: Compile DODIK_Hill
+[2023.04.17-23.42.42:740][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.04.17-23.43.06:311][772]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.04.17-23.43.06:324][772]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.17-23.43.39:682][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DODIK_Tank" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Tank.uasset" SILENT=true
+[2023.04.17-23.43.39:697][217]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/DODIK_Tank9A3A85F84098DEAB6A3A73BFCCDAAD2C.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Tank.uasset'
+[2023.04.17-23.43.39:708][217]AssetCheck: New page: Asset Save: DODIK_Tank
+[2023.04.17-23.43.39:708][217]LogContentValidation: Display: Validating Blueprint /Game/AI/DODIK_Tank.DODIK_Tank
+[2023.04.17-23.43.40:502][295]BlueprintLog: New page: Compile DODIK_Tank
+[2023.04.17-23.43.40:553][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.04.17-23.43.41:033][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DODIK_Tank" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Tank.uasset" SILENT=true
+[2023.04.17-23.43.41:048][333]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/DODIK_TankBF6A02D94F3EADFC1DF18B89957885FA.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Tank.uasset'
+[2023.04.17-23.43.41:057][333]AssetCheck: New page: Asset Save: DODIK_Tank
+[2023.04.17-23.43.41:057][333]LogContentValidation: Display: Validating Blueprint /Game/AI/DODIK_Tank.DODIK_Tank
+[2023.04.17-23.43.42:477][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.04.17-23.43.43:031][537]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-23.43.43:034][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-23.43.43:034][537]PIE: New page: PIE session: TopDownExampleMap (18 апр. 2023 г., 05:43:43)
+[2023.04.17-23.43.43:034][537]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-23.43.43:038][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003835s)
+[2023.04.17-23.43.43:039][537]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-23.43.43:039][537]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2023.04.17-23.43.43:039][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004643s)
+[2023.04.17-23.43.43:061][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.04.17-23.43.43:063][537]LogAudio: Display: Creating Audio Device:                 Id: 145, Scope: Unique, Realtime: True
+[2023.04.17-23.43.43:063][537]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-23.43.43:063][537]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-23.43.43:063][537]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-23.43.43:063][537]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-23.43.43:063][537]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-23.43.43:063][537]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-23.43.43:063][537]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-23.43.43:063][537]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-23.43.43:063][537]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-23.43.43:063][537]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-23.43.43:063][537]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-23.43.43:063][537]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-23.43.43:065][537]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-23.43.43:065][537]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-23.43.43:071][537]LogAudioMixer: Display: Using Audio Device Динамики (USB Audio Device)
+[2023.04.17-23.43.43:071][537]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-23.43.43:071][537]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-23.43.43:071][537]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-23.43.43:071][537]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-23.43.43:073][537]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-23.43.43:073][537]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-23.43.43:073][537]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-23.43.43:073][537]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-23.43.43:073][537]LogInit: FAudioDevice initialized.
+[2023.04.17-23.43.43:073][537]LogAudio: Display: Audio Device (ID: 145) registered with world 'TopDownExampleMap'.
+[2023.04.17-23.43.43:077][537]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-23.43.43:079][537]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.18-02.43.43
+[2023.04.17-23.43.43:080][537]LogWorld: Bringing up level for play took: 0.001962
+[2023.04.17-23.43.43:080][537]LogOnline: OSS: Creating online subsystem instance for: :Context_243
+[2023.04.17-23.43.43:081][537]PIE: Server logged in
+[2023.04.17-23.43.43:082][537]PIE: Play in editor total start time 0,048 seconds.
+[2023.04.17-23.43.44:445][693]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_Hill_C]
+[2023.04.17-23.43.47:773][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-23.43.47:773][ 81]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-23.43.47:774][ 81]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-23.43.47:774][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-23.43.47:793][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-23.43.47:802][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-23.43.47:823][ 81]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.17-23.43.47:824][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-23.43.47:825][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-23.43.47:826][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-23.43.47:829][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.04.17-23.43.47:858][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_243
+[2023.04.17-23.44.29:769][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DODIK_Hill" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Hill.uasset" SILENT=true
+[2023.04.17-23.44.29:783][436]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/DODIK_Hill2E7026EB47A0620CD879FC8AE984FA2F.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Hill.uasset'
+[2023.04.17-23.44.29:793][436]AssetCheck: New page: Asset Save: DODIK_Hill
+[2023.04.17-23.44.29:793][436]LogContentValidation: Display: Validating Blueprint /Game/AI/DODIK_Hill.DODIK_Hill
+[2023.04.17-23.44.32:833][744]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/PointCheracterEnemyD9FDAEAD4FD7A21F9BA1718B6DF55E18.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/TopDownBP/Blueprints/PointCheracterEnemy.uasset'
+[2023.04.17-23.44.32:846][744]AssetCheck: New page: Asset Save: PointCheracterEnemy
+[2023.04.17-23.44.32:846][744]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/PointCheracterEnemy.PointCheracterEnemy
+[2023.04.17-23.44.44:838][986]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.04.17-23.44.44:851][986]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.17-23.44.48:679][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DODIK_Hill" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Hill.uasset" SILENT=true
+[2023.04.17-23.44.48:694][427]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/DODIK_Hill1BA979CE4CB19C8B474B5E8E1017D1B3.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Hill.uasset'
+[2023.04.17-23.44.48:702][427]AssetCheck: New page: Asset Save: DODIK_Hill
+[2023.04.17-23.44.48:702][427]LogContentValidation: Display: Validating Blueprint /Game/AI/DODIK_Hill.DODIK_Hill
+[2023.04.17-23.44.49:449][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DODIK_Atack" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Atack.uasset" SILENT=true
+[2023.04.17-23.44.49:460][513]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/DODIK_AtackF9FC06A943B796D2342AB18F3CC8F8C2.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Atack.uasset'
+[2023.04.17-23.44.49:469][513]AssetCheck: New page: Asset Save: DODIK_Atack
+[2023.04.17-23.44.49:469][513]LogContentValidation: Display: Validating Blueprint /Game/AI/DODIK_Atack.DODIK_Atack
+[2023.04.17-23.44.50:092][582]BlueprintLog: New page: Compile DODIK_Hill
+[2023.04.17-23.44.50:138][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.04.17-23.44.55:961][176]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.04.17-23.44.55:974][176]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.17-23.45.00:691][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DODIK_Tank" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Tank.uasset" SILENT=true
+[2023.04.17-23.45.00:706][728]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/DODIK_Tank09A914A54FD02544D8C0659A5DEDC3C5.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Tank.uasset'
+[2023.04.17-23.45.00:715][728]AssetCheck: New page: Asset Save: DODIK_Tank
+[2023.04.17-23.45.00:715][728]LogContentValidation: Display: Validating Blueprint /Game/AI/DODIK_Tank.DODIK_Tank
+[2023.04.17-23.45.01:224][785]BlueprintLog: New page: Compile DODIK_Tank
+[2023.04.17-23.45.01:269][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.04.17-23.45.01:957][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DODIK_Tank" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Tank.uasset" SILENT=true
+[2023.04.17-23.45.01:972][855]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/DODIK_Tank0B22E0B54D3942C700EE43B077ADABF8.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Tank.uasset'
+[2023.04.17-23.45.01:980][855]AssetCheck: New page: Asset Save: DODIK_Tank
+[2023.04.17-23.45.01:980][855]LogContentValidation: Display: Validating Blueprint /Game/AI/DODIK_Tank.DODIK_Tank
+[2023.04.17-23.45.39:174][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DODIK_Hill" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Hill.uasset" SILENT=true
+[2023.04.17-23.45.39:189][ 20]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/DODIK_Hill2136059647A334A725A2F1B85B161AC5.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Hill.uasset'
+[2023.04.17-23.45.39:199][ 20]AssetCheck: New page: Asset Save: DODIK_Hill
+[2023.04.17-23.45.39:199][ 20]LogContentValidation: Display: Validating Blueprint /Game/AI/DODIK_Hill.DODIK_Hill
+[2023.04.17-23.45.40:289][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DODIK_Atack" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Atack.uasset" SILENT=true
+[2023.04.17-23.45.40:300][141]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/DODIK_Atack0928785C4A822A05072BCFB68703276E.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Atack.uasset'
+[2023.04.17-23.45.40:309][141]AssetCheck: New page: Asset Save: DODIK_Atack
+[2023.04.17-23.45.40:309][141]LogContentValidation: Display: Validating Blueprint /Game/AI/DODIK_Atack.DODIK_Atack
+[2023.04.17-23.45.42:585][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DODIK_Atack" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Atack.uasset" SILENT=true
+[2023.04.17-23.45.42:598][389]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/DODIK_Atack07B9297A432518F0F5BBB89A3FEF5431.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Atack.uasset'
+[2023.04.17-23.45.42:613][389]AssetCheck: New page: Asset Save: DODIK_Atack
+[2023.04.17-23.45.42:613][389]LogContentValidation: Display: Validating Blueprint /Game/AI/DODIK_Atack.DODIK_Atack
+[2023.04.17-23.45.42:783][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DODIK_Atack" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Atack.uasset" SILENT=true
+[2023.04.17-23.45.42:794][407]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/DODIK_Atack0CC383E64820FD8B388FB8A3E5A6E947.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Atack.uasset'
+[2023.04.17-23.45.42:803][407]AssetCheck: New page: Asset Save: DODIK_Atack
+[2023.04.17-23.45.42:803][407]LogContentValidation: Display: Validating Blueprint /Game/AI/DODIK_Atack.DODIK_Atack
+[2023.04.17-23.45.50:965][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DODIK_Tank" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Tank.uasset" SILENT=true
+[2023.04.17-23.45.50:980][282]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/DODIK_Tank4B3190E74873533745868796412800E5.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Tank.uasset'
+[2023.04.17-23.45.50:990][282]AssetCheck: New page: Asset Save: DODIK_Tank
+[2023.04.17-23.45.50:990][282]LogContentValidation: Display: Validating Blueprint /Game/AI/DODIK_Tank.DODIK_Tank
+[2023.04.17-23.45.51:195][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DODIK_Atack" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Atack.uasset" SILENT=true
+[2023.04.17-23.45.51:207][304]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/DODIK_Atack597895104C9C2633B209649FC270BFD4.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Atack.uasset'
+[2023.04.17-23.45.51:218][304]AssetCheck: New page: Asset Save: DODIK_Atack
+[2023.04.17-23.45.51:218][304]LogContentValidation: Display: Validating Blueprint /Game/AI/DODIK_Atack.DODIK_Atack
+[2023.04.17-23.45.51:362][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DODIK_Atack" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Atack.uasset" SILENT=true
+[2023.04.17-23.45.51:373][319]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/DODIK_AtackCC4D4E2C4EA027510598179E23C0D90F.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Atack.uasset'
+[2023.04.17-23.45.51:381][319]AssetCheck: New page: Asset Save: DODIK_Atack
+[2023.04.17-23.45.51:381][319]LogContentValidation: Display: Validating Blueprint /Game/AI/DODIK_Atack.DODIK_Atack
+[2023.04.17-23.45.53:015][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DODIK_Atack" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Atack.uasset" SILENT=true
+[2023.04.17-23.45.53:027][501]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/DODIK_Atack6EA0E47B41D70BFB6180548C3FC99F1A.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Atack.uasset'
+[2023.04.17-23.45.53:035][501]AssetCheck: New page: Asset Save: DODIK_Atack
+[2023.04.17-23.45.53:035][501]LogContentValidation: Display: Validating Blueprint /Game/AI/DODIK_Atack.DODIK_Atack
+[2023.04.17-23.45.55:313][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DODIK_Atack" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Atack.uasset" SILENT=true
+[2023.04.17-23.45.55:325][745]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/DODIK_Atack2AC52B9C404117242FF440B0A31E262A.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Atack.uasset'
+[2023.04.17-23.45.55:341][745]AssetCheck: New page: Asset Save: DODIK_Atack
+[2023.04.17-23.45.55:341][745]LogContentValidation: Display: Validating Blueprint /Game/AI/DODIK_Atack.DODIK_Atack
+[2023.04.17-23.46.14:695][973]BlueprintLog: New page: Compile DODIK_Hill
+[2023.04.17-23.46.14:747][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.04.17-23.46.16:221][122]BlueprintLog: New page: Compile DODIK_Tank
+[2023.04.17-23.46.16:265][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.04.17-23.46.17:760][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DODIK_Tank" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Tank.uasset" SILENT=true
+[2023.04.17-23.46.17:775][283]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/DODIK_Tank35157C2842240412404FF9870F54D21F.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Tank.uasset'
+[2023.04.17-23.46.17:784][283]AssetCheck: New page: Asset Save: DODIK_Tank
+[2023.04.17-23.46.17:784][283]LogContentValidation: Display: Validating Blueprint /Game/AI/DODIK_Tank.DODIK_Tank
+[2023.04.17-23.46.18:224][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DODIK_Atack" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Atack.uasset" SILENT=true
+[2023.04.17-23.46.18:237][329]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/DODIK_AtackAB8203BB428CA654AF21B39707598CE7.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Atack.uasset'
+[2023.04.17-23.46.18:247][329]AssetCheck: New page: Asset Save: DODIK_Atack
+[2023.04.17-23.46.18:247][329]LogContentValidation: Display: Validating Blueprint /Game/AI/DODIK_Atack.DODIK_Atack
+[2023.04.17-23.46.20:298][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/DODIK_Hill" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Hill.uasset" SILENT=true
+[2023.04.17-23.46.20:313][559]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/DODIK_HillA990C33E49651B67A39E24B4781FBE65.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Content/AI/DODIK_Hill.uasset'
+[2023.04.17-23.46.20:322][559]AssetCheck: New page: Asset Save: DODIK_Hill
+[2023.04.17-23.46.20:322][559]LogContentValidation: Display: Validating Blueprint /Game/AI/DODIK_Hill.DODIK_Hill
+[2023.04.17-23.46.22:909][843]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-23.46.22:913][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-23.46.22:913][843]PIE: New page: PIE session: TopDownExampleMap (18 апр. 2023 г., 05:46:22)
+[2023.04.17-23.46.22:913][843]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-23.46.22:917][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003640s)
+[2023.04.17-23.46.22:917][843]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-23.46.22:917][843]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2023.04.17-23.46.22:917][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004373s)
+[2023.04.17-23.46.22:941][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.04.17-23.46.22:943][843]LogAudio: Display: Creating Audio Device:                 Id: 146, Scope: Unique, Realtime: True
+[2023.04.17-23.46.22:943][843]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-23.46.22:943][843]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-23.46.22:943][843]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-23.46.22:943][843]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-23.46.22:943][843]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-23.46.22:943][843]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-23.46.22:943][843]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-23.46.22:943][843]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-23.46.22:943][843]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-23.46.22:943][843]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-23.46.22:943][843]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-23.46.22:943][843]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-23.46.22:945][843]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-23.46.22:945][843]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-23.46.22:950][843]LogAudioMixer: Display: Using Audio Device Динамики (USB Audio Device)
+[2023.04.17-23.46.22:950][843]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-23.46.22:950][843]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-23.46.22:950][843]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-23.46.22:951][843]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-23.46.22:951][843]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-23.46.22:951][843]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-23.46.22:951][843]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-23.46.22:951][843]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-23.46.22:951][843]LogInit: FAudioDevice initialized.
+[2023.04.17-23.46.22:951][843]LogAudio: Display: Audio Device (ID: 146) registered with world 'TopDownExampleMap'.
+[2023.04.17-23.46.22:961][843]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-23.46.22:963][843]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.18-02.46.22
+[2023.04.17-23.46.22:963][843]LogWorld: Bringing up level for play took: 0.001869
+[2023.04.17-23.46.22:963][843]LogOnline: OSS: Creating online subsystem instance for: :Context_244
+[2023.04.17-23.46.22:965][843]PIE: Server logged in
+[2023.04.17-23.46.22:965][843]PIE: Play in editor total start time 0,053 seconds.
+[2023.04.17-23.46.24:004][964]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_Atack_C]
+[2023.04.17-23.46.31:162][819]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/AI/Enimeis/Enemy.Enemy_C for a property of BlueprintGeneratedClass /Game/AI/Enimeis/Protivnik.Protivnik_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/TopDownBP/Blueprints/PointCheracterEnemy.PointCheracterEnemy_C:ExecuteUbergraph_PointCheracterEnemy:CallFunc_Array_Get_Item
+    Item = Enemy_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Protivnik_2
+[2023.04.17-23.46.31:162][819]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/AI/Enimeis/Enemy.Enemy_C for a property of BlueprintGeneratedClass /Game/AI/Enimeis/Protivnik.Protivnik_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/AI/AIControllerMOI_Tank.AIControllerMOI_Tank_C:ExecuteUbergraph_AIControllerMOI_Tank:CallFunc_Array_Get_Item
+    Item = Enemy_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Protivnik_2
+[2023.04.17-23.46.31:162][819]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/AI/Enimeis/Enemy.Enemy_C for a property of BlueprintGeneratedClass /Game/AI/Enimeis/Protivnik.Protivnik_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/AI/AIControllerMOI_Tank.AIControllerMOI_Tank_C:ExecuteUbergraph_AIControllerMOI_Tank:CallFunc_Array_Get_Item
+    Item = Enemy_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Protivnik_2
+[2023.04.17-23.46.31:162][819]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/AI/Enimeis/Enemy.Enemy_C for a property of BlueprintGeneratedClass /Game/AI/Enimeis/Protivnik.Protivnik_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/AI/AIControllerMOI_Tank.AIControllerMOI_Tank_C:ExecuteUbergraph_AIControllerMOI_Tank:CallFunc_Array_Get_Item
+    Item = Enemy_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Protivnik_2
+[2023.04.17-23.46.56:254][828]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-35.781 Y=189.470 Z=265.571] for [DODIK_Atack_C]
+[2023.04.17-23.47.09:311][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-23.47.09:311][389]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-23.47.09:311][389]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-23.47.09:312][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-23.47.09:325][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-23.47.09:335][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-23.47.09:359][389]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.17-23.47.09:359][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-23.47.09:359][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-23.47.09:361][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-23.47.09:363][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.04.17-23.47.09:393][390]LogPlayLevel: Display: Destroying online subsystem :Context_244
