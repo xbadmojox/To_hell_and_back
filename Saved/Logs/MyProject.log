@@ -902,3 +902,1306 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.17-12.11.48:058][  1]LogRenderer: Reallocating scene render targets to support 860x360 Format 10 NumSamples 1 (Frame:1).
 [2023.04.17-12.12.16:793][381]LogRenderer: Reallocating scene render targets to support 1152x792 Format 10 NumSamples 1 (Frame:3296).
 [2023.04.17-12.12.24:235][404]LogRenderer: Reallocating scene render targets to support 1312x792 Format 10 NumSamples 1 (Frame:3300).
+[2023.04.17-12.14.28:661][255]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.17-12.14.28:661][255]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.17-12.14.32:610][696]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-12.14.32:613][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-12.14.32:613][696]PIE: New page: PIE session: TopDownExampleMap (17 апр. 2023 г., 18:14:32)
+[2023.04.17-12.14.32:615][696]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.04.17-12.14.32:615][696]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.04.17-12.14.32:615][696]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.14.32:625][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009896s)
+[2023.04.17-12.14.32:626][696]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-12.14.32:626][696]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2023.04.17-12.14.32:626][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010785s)
+[2023.04.17-12.14.32:631][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.17-12.14.32:632][696]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.04.17-12.14.32:632][696]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-12.14.32:632][696]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-12.14.32:632][696]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-12.14.32:632][696]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-12.14.32:632][696]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-12.14.32:632][696]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-12.14.32:632][696]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-12.14.32:632][696]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-12.14.32:632][696]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-12.14.32:632][696]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-12.14.32:632][696]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-12.14.32:632][696]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-12.14.32:634][696]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-12.14.32:634][696]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-12.14.32:642][696]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.04.17-12.14.32:643][696]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-12.14.32:643][696]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-12.14.32:643][696]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-12.14.32:643][696]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-12.14.32:643][696]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-12.14.32:643][696]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-12.14.32:644][696]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-12.14.32:644][696]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-12.14.32:644][696]LogInit: FAudioDevice initialized.
+[2023.04.17-12.14.32:644][696]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownExampleMap'.
+[2023.04.17-12.14.32:655][696]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-12.14.32:657][696]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.17-15.14.32
+[2023.04.17-12.14.32:657][696]LogWorld: Bringing up level for play took: 0.001734
+[2023.04.17-12.14.32:658][696]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2023.04.17-12.14.32:659][696]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2023.04.17-12.14.32:660][696]PIE: Server logged in
+[2023.04.17-12.14.32:661][696]PIE: Play in editor total start time 0,049 seconds.
+[2023.04.17-12.14.48:672][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.14.48:672][609]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.14.48:672][609]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.14.48:672][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.14.48:683][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-12.14.48:683][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.14.48:691][609]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.17-12.14.48:691][609]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.14.48:692][609]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.14.48:693][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.14.48:695][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.04.17-12.14.48:743][612]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2023.04.17-12.14.51:280][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2023.04.17-12.14.52:141][ 10]Cmd: DELETE
+[2023.04.17-12.14.52:141][ 10]Cmd: ACTOR DELETE
+[2023.04.17-12.14.52:143][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.17-12.14.52:146][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.17-12.14.52:147][ 10]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2023.04.17-12.14.52:410][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2023.04.17-12.14.52:495][ 50]Cmd: DELETE
+[2023.04.17-12.14.52:495][ 50]Cmd: ACTOR DELETE
+[2023.04.17-12.14.52:496][ 50]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.17-12.14.52:500][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.04.17-12.14.52:501][ 50]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2023.04.17-12.14.52:887][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2023.04.17-12.14.53:045][113]Cmd: DELETE
+[2023.04.17-12.14.53:046][113]Cmd: ACTOR DELETE
+[2023.04.17-12.14.53:047][113]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.17-12.14.53:050][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.04.17-12.14.53:051][113]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2023.04.17-12.14.55:496][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.04.17-12.14.58:550][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.04.17-12.14.59:874][925]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-12.14.59:877][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-12.14.59:877][925]PIE: New page: PIE session: TopDownExampleMap (17 апр. 2023 г., 18:14:59)
+[2023.04.17-12.14.59:877][925]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.14.59:884][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007452s)
+[2023.04.17-12.14.59:885][925]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-12.14.59:885][925]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2023.04.17-12.14.59:885][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008349s)
+[2023.04.17-12.14.59:888][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.04.17-12.14.59:890][925]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.04.17-12.14.59:890][925]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-12.14.59:890][925]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-12.14.59:890][925]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-12.14.59:890][925]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-12.14.59:890][925]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-12.14.59:890][925]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-12.14.59:890][925]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-12.14.59:890][925]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-12.14.59:890][925]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-12.14.59:890][925]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-12.14.59:890][925]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-12.14.59:890][925]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-12.14.59:892][925]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-12.14.59:892][925]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-12.14.59:900][925]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.04.17-12.14.59:900][925]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-12.14.59:900][925]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-12.14.59:900][925]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-12.14.59:901][925]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-12.14.59:901][925]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-12.14.59:901][925]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-12.14.59:901][925]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-12.14.59:901][925]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-12.14.59:901][925]LogInit: FAudioDevice initialized.
+[2023.04.17-12.14.59:901][925]LogAudio: Display: Audio Device (ID: 3) registered with world 'TopDownExampleMap'.
+[2023.04.17-12.14.59:909][925]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-12.14.59:911][925]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.17-15.14.59
+[2023.04.17-12.14.59:911][925]LogWorld: Bringing up level for play took: 0.001645
+[2023.04.17-12.14.59:911][925]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2023.04.17-12.14.59:913][925]PIE: Server logged in
+[2023.04.17-12.14.59:914][925]PIE: Play in editor total start time 0,037 seconds.
+[2023.04.17-12.15.01:182][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.15.01:182][ 71]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.15.01:182][ 71]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.15.01:182][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.15.01:189][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-12.15.01:197][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.15.01:201][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.15.01:201][ 71]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.15.01:202][ 71]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.15.01:205][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.04.17-12.15.01:250][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.04.17-12.15.02:281][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.04.17-12.15.02:950][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2023.04.17-12.15.07:834][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.04.17-12.15.08:270][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.04.17-12.15.18:738][153]LogEditorViewport: Clicking on Actor (LMB): DODIK_C (TopDownCharacter2)
+[2023.04.17-12.15.19:157][198]Cmd: DELETE
+[2023.04.17-12.15.19:157][198]Cmd: ACTOR DELETE
+[2023.04.17-12.15.19:158][198]LogEditorActor: Deleted Actor: DODIK_C
+[2023.04.17-12.15.19:162][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.04.17-12.15.19:163][198]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2023.04.17-12.15.19:534][242]LogEditorViewport: Clicking on Actor (LMB): DODIK_C (DODIK)
+[2023.04.17-12.15.19:626][249]Cmd: DELETE
+[2023.04.17-12.15.19:626][249]Cmd: ACTOR DELETE
+[2023.04.17-12.15.19:627][249]LogEditorActor: Deleted Actor: DODIK_C
+[2023.04.17-12.15.19:630][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.04.17-12.15.19:631][249]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2023.04.17-12.15.20:175][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2023.04.17-12.15.21:160][429]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-12.15.21:163][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-12.15.21:163][429]PIE: New page: PIE session: TopDownExampleMap (17 апр. 2023 г., 18:15:21)
+[2023.04.17-12.15.21:163][429]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.15.21:171][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007267s)
+[2023.04.17-12.15.21:171][429]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-12.15.21:172][429]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2023.04.17-12.15.21:172][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008073s)
+[2023.04.17-12.15.21:175][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.04.17-12.15.21:176][429]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.04.17-12.15.21:176][429]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-12.15.21:176][429]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-12.15.21:176][429]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-12.15.21:176][429]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-12.15.21:176][429]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-12.15.21:176][429]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-12.15.21:176][429]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-12.15.21:176][429]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-12.15.21:176][429]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-12.15.21:176][429]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-12.15.21:176][429]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-12.15.21:176][429]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-12.15.21:177][429]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-12.15.21:177][429]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-12.15.21:185][429]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.04.17-12.15.21:186][429]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-12.15.21:186][429]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-12.15.21:186][429]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-12.15.21:186][429]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-12.15.21:186][429]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-12.15.21:186][429]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-12.15.21:187][429]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-12.15.21:187][429]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-12.15.21:187][429]LogInit: FAudioDevice initialized.
+[2023.04.17-12.15.21:187][429]LogAudio: Display: Audio Device (ID: 4) registered with world 'TopDownExampleMap'.
+[2023.04.17-12.15.21:194][429]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-12.15.21:195][429]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.17-15.15.21
+[2023.04.17-12.15.21:195][429]LogWorld: Bringing up level for play took: 0.001117
+[2023.04.17-12.15.21:195][429]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2023.04.17-12.15.21:197][429]PIE: Server logged in
+[2023.04.17-12.15.21:197][429]PIE: Play in editor total start time 0,034 seconds.
+[2023.04.17-12.15.23:551][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.15.23:551][707]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.15.23:551][707]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.15.23:552][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.15.23:560][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-12.15.23:567][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.15.23:571][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.15.23:571][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.15.23:572][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.15.23:576][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.04.17-12.15.23:637][711]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.04.17-12.15.26:744][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2023.04.17-12.15.29:590][407]Cmd: DELETE
+[2023.04.17-12.15.29:590][407]Cmd: ACTOR DELETE
+[2023.04.17-12.15.29:592][407]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.17-12.15.29:592][407]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.17-12.15.29:592][407]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.17-12.15.29:592][407]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.17-12.15.29:592][407]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.17-12.15.29:592][407]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.17-12.15.29:595][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.04.17-12.15.29:597][407]LogEditorActor: Deleted 6 Actors (0.006 secs)
+[2023.04.17-12.15.32:470][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2023.04.17-12.15.37:975][389]Cmd: DELETE
+[2023.04.17-12.15.37:975][389]Cmd: ACTOR DELETE
+[2023.04.17-12.15.37:977][389]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.17-12.15.37:977][389]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.17-12.15.37:977][389]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.17-12.15.37:977][389]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.17-12.15.37:977][389]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.17-12.15.37:978][389]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.17-12.15.37:978][389]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.17-12.15.37:978][389]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.17-12.15.37:978][389]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.17-12.15.37:978][389]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.17-12.15.37:980][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.04.17-12.15.37:981][389]LogEditorActor: Deleted 10 Actors (0.006 secs)
+[2023.04.17-12.15.39:598][581]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-12.15.39:600][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-12.15.39:600][581]PIE: New page: PIE session: TopDownExampleMap (17 апр. 2023 г., 18:15:39)
+[2023.04.17-12.15.39:600][581]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.15.39:607][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006562s)
+[2023.04.17-12.15.39:608][581]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-12.15.39:608][581]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2023.04.17-12.15.39:608][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.007278s)
+[2023.04.17-12.15.39:611][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.04.17-12.15.39:612][581]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.04.17-12.15.39:612][581]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-12.15.39:612][581]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-12.15.39:612][581]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-12.15.39:612][581]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-12.15.39:612][581]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-12.15.39:612][581]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-12.15.39:612][581]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-12.15.39:612][581]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-12.15.39:612][581]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-12.15.39:612][581]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-12.15.39:612][581]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-12.15.39:612][581]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-12.15.39:613][581]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-12.15.39:613][581]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-12.15.39:622][581]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.04.17-12.15.39:623][581]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-12.15.39:623][581]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-12.15.39:623][581]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-12.15.39:623][581]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-12.15.39:623][581]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-12.15.39:623][581]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-12.15.39:623][581]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-12.15.39:623][581]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-12.15.39:623][581]LogInit: FAudioDevice initialized.
+[2023.04.17-12.15.39:623][581]LogAudio: Display: Audio Device (ID: 5) registered with world 'TopDownExampleMap'.
+[2023.04.17-12.15.39:630][581]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-12.15.39:631][581]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.17-15.15.39
+[2023.04.17-12.15.39:631][581]LogWorld: Bringing up level for play took: 0.000941
+[2023.04.17-12.15.39:632][581]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.04.17-12.15.39:633][581]PIE: Server logged in
+[2023.04.17-12.15.39:633][581]PIE: Play in editor total start time 0,034 seconds.
+[2023.04.17-12.15.44:851][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.15.44:851][201]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.15.44:851][201]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.15.44:852][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.15.44:859][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-12.15.44:860][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.15.44:864][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.15.44:864][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.15.44:865][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.15.44:868][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.17-12.15.44:923][206]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.04.17-12.21.08:484][700]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.17-12.21.08:484][700]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.17-12.21.26:882][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-12.21.26:882][875]PIE: New page: SIE session: TopDownExampleMap (17 апр. 2023 г., 18:21:26)
+[2023.04.17-12.21.26:882][875]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.21.26:890][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007788s)
+[2023.04.17-12.21.26:890][875]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-12.21.26:890][875]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2023.04.17-12.21.26:890][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008722s)
+[2023.04.17-12.21.26:895][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.04.17-12.21.26:896][875]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.04.17-12.21.26:896][875]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-12.21.26:896][875]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-12.21.26:896][875]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-12.21.26:896][875]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-12.21.26:896][875]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-12.21.26:896][875]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-12.21.26:896][875]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-12.21.26:896][875]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-12.21.26:896][875]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-12.21.26:896][875]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-12.21.26:896][875]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-12.21.26:896][875]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-12.21.26:898][875]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-12.21.26:898][875]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-12.21.26:906][875]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.04.17-12.21.26:907][875]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-12.21.26:907][875]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-12.21.26:907][875]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-12.21.26:907][875]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-12.21.26:907][875]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-12.21.26:907][875]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-12.21.26:908][875]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-12.21.26:908][875]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-12.21.26:908][875]LogInit: FAudioDevice initialized.
+[2023.04.17-12.21.26:908][875]LogAudio: Display: Audio Device (ID: 6) registered with world 'TopDownExampleMap'.
+[2023.04.17-12.21.26:918][875]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-12.21.26:920][875]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.17-15.21.26
+[2023.04.17-12.21.26:920][875]LogWorld: Bringing up level for play took: 0.001085
+[2023.04.17-12.21.26:920][875]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2023.04.17-12.21.26:922][875]PIE: Server logged in
+[2023.04.17-12.21.26:922][875]PIE: Play in editor total start time 0,04 seconds.
+[2023.04.17-12.21.29:397][170]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	UsageButtonAbility_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.UsageButtonAbility_C_0
+	Function /Game/TopDownBP/Blueprints/UsageButtonAbility.UsageButtonAbility_C:ExecuteUbergraph_UsageButtonAbility:0042
+[2023.04.17-12.21.29:398][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  UsageButtonAbility Function:  Execute Ubergraph Usage Button Ability Graph:  EventGraph Node:  SpawnActor DODIK
+[2023.04.17-12.21.29:398][170]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1
+	UsageButtonAbility_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.UsageButtonAbility_C_0
+	Function /Game/TopDownBP/Blueprints/UsageButtonAbility.UsageButtonAbility_C:ExecuteUbergraph_UsageButtonAbility:00B8
+[2023.04.17-12.21.29:398][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1". Blueprint:  UsageButtonAbility Function:  Execute Ubergraph Usage Button Ability Graph:  EventGraph Node:  SpawnActor DODIK
+[2023.04.17-12.21.29:398][170]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	UsageButtonAbility_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.UsageButtonAbility_C_0
+	Function /Game/TopDownBP/Blueprints/UsageButtonAbility.UsageButtonAbility_C:ExecuteUbergraph_UsageButtonAbility:019D
+[2023.04.17-12.21.29:398][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  UsageButtonAbility Function:  Execute Ubergraph Usage Button Ability Graph:  EventGraph Node:  SpawnActor DODIK
+[2023.04.17-12.21.29:398][170]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1
+	UsageButtonAbility_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.UsageButtonAbility_C_0
+	Function /Game/TopDownBP/Blueprints/UsageButtonAbility.UsageButtonAbility_C:ExecuteUbergraph_UsageButtonAbility:0213
+[2023.04.17-12.21.29:398][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1". Blueprint:  UsageButtonAbility Function:  Execute Ubergraph Usage Button Ability Graph:  EventGraph Node:  SpawnActor DODIK
+[2023.04.17-12.21.30:710][327]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	UsageButtonAbility_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.UsageButtonAbility_C_0
+	Function /Game/TopDownBP/Blueprints/UsageButtonAbility.UsageButtonAbility_C:ExecuteUbergraph_UsageButtonAbility:0042
+[2023.04.17-12.21.30:710][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  UsageButtonAbility Function:  Execute Ubergraph Usage Button Ability Graph:  EventGraph Node:  SpawnActor DODIK
+[2023.04.17-12.21.30:710][327]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1
+	UsageButtonAbility_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.UsageButtonAbility_C_0
+	Function /Game/TopDownBP/Blueprints/UsageButtonAbility.UsageButtonAbility_C:ExecuteUbergraph_UsageButtonAbility:00B8
+[2023.04.17-12.21.30:710][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1". Blueprint:  UsageButtonAbility Function:  Execute Ubergraph Usage Button Ability Graph:  EventGraph Node:  SpawnActor DODIK
+[2023.04.17-12.21.30:711][327]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	UsageButtonAbility_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.UsageButtonAbility_C_0
+	Function /Game/TopDownBP/Blueprints/UsageButtonAbility.UsageButtonAbility_C:ExecuteUbergraph_UsageButtonAbility:019D
+[2023.04.17-12.21.30:711][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  UsageButtonAbility Function:  Execute Ubergraph Usage Button Ability Graph:  EventGraph Node:  SpawnActor DODIK
+[2023.04.17-12.21.30:711][327]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1
+	UsageButtonAbility_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.UsageButtonAbility_C_0
+	Function /Game/TopDownBP/Blueprints/UsageButtonAbility.UsageButtonAbility_C:ExecuteUbergraph_UsageButtonAbility:0213
+[2023.04.17-12.21.30:711][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1". Blueprint:  UsageButtonAbility Function:  Execute Ubergraph Usage Button Ability Graph:  EventGraph Node:  SpawnActor DODIK
+[2023.04.17-12.21.31:035][366]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	UsageButtonAbility_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.UsageButtonAbility_C_0
+	Function /Game/TopDownBP/Blueprints/UsageButtonAbility.UsageButtonAbility_C:ExecuteUbergraph_UsageButtonAbility:0042
+[2023.04.17-12.21.31:035][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  UsageButtonAbility Function:  Execute Ubergraph Usage Button Ability Graph:  EventGraph Node:  SpawnActor DODIK
+[2023.04.17-12.21.31:035][366]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1
+	UsageButtonAbility_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.UsageButtonAbility_C_0
+	Function /Game/TopDownBP/Blueprints/UsageButtonAbility.UsageButtonAbility_C:ExecuteUbergraph_UsageButtonAbility:00B8
+[2023.04.17-12.21.31:035][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1". Blueprint:  UsageButtonAbility Function:  Execute Ubergraph Usage Button Ability Graph:  EventGraph Node:  SpawnActor DODIK
+[2023.04.17-12.21.31:036][366]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	UsageButtonAbility_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.UsageButtonAbility_C_0
+	Function /Game/TopDownBP/Blueprints/UsageButtonAbility.UsageButtonAbility_C:ExecuteUbergraph_UsageButtonAbility:019D
+[2023.04.17-12.21.31:036][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  UsageButtonAbility Function:  Execute Ubergraph Usage Button Ability Graph:  EventGraph Node:  SpawnActor DODIK
+[2023.04.17-12.21.31:036][366]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1
+	UsageButtonAbility_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.UsageButtonAbility_C_0
+	Function /Game/TopDownBP/Blueprints/UsageButtonAbility.UsageButtonAbility_C:ExecuteUbergraph_UsageButtonAbility:0213
+[2023.04.17-12.21.31:036][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1". Blueprint:  UsageButtonAbility Function:  Execute Ubergraph Usage Button Ability Graph:  EventGraph Node:  SpawnActor DODIK
+[2023.04.17-12.21.31:186][384]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	UsageButtonAbility_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.UsageButtonAbility_C_0
+	Function /Game/TopDownBP/Blueprints/UsageButtonAbility.UsageButtonAbility_C:ExecuteUbergraph_UsageButtonAbility:0042
+[2023.04.17-12.21.31:186][384]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  UsageButtonAbility Function:  Execute Ubergraph Usage Button Ability Graph:  EventGraph Node:  SpawnActor DODIK
+[2023.04.17-12.21.31:186][384]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1
+	UsageButtonAbility_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.UsageButtonAbility_C_0
+	Function /Game/TopDownBP/Blueprints/UsageButtonAbility.UsageButtonAbility_C:ExecuteUbergraph_UsageButtonAbility:00B8
+[2023.04.17-12.21.31:186][384]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1". Blueprint:  UsageButtonAbility Function:  Execute Ubergraph Usage Button Ability Graph:  EventGraph Node:  SpawnActor DODIK
+[2023.04.17-12.21.31:187][384]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	UsageButtonAbility_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.UsageButtonAbility_C_0
+	Function /Game/TopDownBP/Blueprints/UsageButtonAbility.UsageButtonAbility_C:ExecuteUbergraph_UsageButtonAbility:019D
+[2023.04.17-12.21.31:187][384]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  UsageButtonAbility Function:  Execute Ubergraph Usage Button Ability Graph:  EventGraph Node:  SpawnActor DODIK
+[2023.04.17-12.21.31:187][384]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1
+	UsageButtonAbility_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.UsageButtonAbility_C_0
+	Function /Game/TopDownBP/Blueprints/UsageButtonAbility.UsageButtonAbility_C:ExecuteUbergraph_UsageButtonAbility:0213
+[2023.04.17-12.21.31:187][384]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1". Blueprint:  UsageButtonAbility Function:  Execute Ubergraph Usage Button Ability Graph:  EventGraph Node:  SpawnActor DODIK
+[2023.04.17-12.21.31:187][384]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [DODIK_C]
+[2023.04.17-12.21.32:640][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  UsageButtonAbility Function:  Execute Ubergraph Usage Button Ability Graph:  EventGraph Node:  SpawnActor DODIK
+[2023.04.17-12.21.32:641][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1". Blueprint:  UsageButtonAbility Function:  Execute Ubergraph Usage Button Ability Graph:  EventGraph Node:  SpawnActor DODIK
+[2023.04.17-12.21.32:641][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  UsageButtonAbility Function:  Execute Ubergraph Usage Button Ability Graph:  EventGraph Node:  SpawnActor DODIK
+[2023.04.17-12.21.32:641][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1". Blueprint:  UsageButtonAbility Function:  Execute Ubergraph Usage Button Ability Graph:  EventGraph Node:  SpawnActor DODIK
+[2023.04.17-12.21.35:009][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.21.35:009][838]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.21.35:010][838]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.21.35:010][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.21.35:015][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-12.21.35:016][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.21.35:021][838]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.17-12.21.35:021][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.21.35:022][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.21.35:024][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.21.35:025][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.04.17-12.21.35:067][838]LogSlate: Took 0.004089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.04.17-12.21.35:080][839]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.04.17-12.21.36:485][982]LogSlate: Window 'Message Log' being destroyed
+[2023.04.17-12.21.36:492][982]LogSlate: Window 'Message Log' being destroyed
+[2023.04.17-12.21.38:324][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-12.21.38:324][201]PIE: New page: PIE session: TopDownExampleMap (17 апр. 2023 г., 18:21:38)
+[2023.04.17-12.21.38:324][201]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.21.38:330][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006643s)
+[2023.04.17-12.21.38:331][201]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-12.21.38:331][201]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2023.04.17-12.21.38:331][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.007462s)
+[2023.04.17-12.21.38:334][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.04.17-12.21.38:335][201]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.04.17-12.21.38:335][201]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-12.21.38:335][201]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-12.21.38:335][201]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-12.21.38:335][201]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-12.21.38:335][201]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-12.21.38:335][201]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-12.21.38:335][201]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-12.21.38:335][201]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-12.21.38:335][201]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-12.21.38:335][201]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-12.21.38:335][201]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-12.21.38:335][201]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-12.21.38:337][201]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-12.21.38:337][201]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-12.21.38:345][201]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.04.17-12.21.38:346][201]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-12.21.38:346][201]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-12.21.38:346][201]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-12.21.38:346][201]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-12.21.38:346][201]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-12.21.38:346][201]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-12.21.38:347][201]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-12.21.38:347][201]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-12.21.38:347][201]LogInit: FAudioDevice initialized.
+[2023.04.17-12.21.38:347][201]LogAudio: Display: Audio Device (ID: 7) registered with world 'TopDownExampleMap'.
+[2023.04.17-12.21.38:353][201]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-12.21.38:354][201]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.17-15.21.38
+[2023.04.17-12.21.38:354][201]LogWorld: Bringing up level for play took: 0.000895
+[2023.04.17-12.21.38:355][201]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2023.04.17-12.21.38:356][201]PIE: Server logged in
+[2023.04.17-12.21.38:356][201]PIE: Play in editor total start time 0,034 seconds.
+[2023.04.17-12.21.57:467][588]LogSlate: Took 0.004394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.04.17-12.26.41:579][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.26.41:579][367]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.26.41:579][367]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.26.41:580][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.26.41:588][367]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-12.26.41:589][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.26.41:596][367]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.17-12.26.41:596][367]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.26.41:597][367]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.26.41:599][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.26.41:600][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.17-12.26.41:654][372]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.04.17-12.26.42:555][480]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2023.04.17-12.26.42:695][492]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2023.04.17-12.27.05:532][215]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-12.27.05:535][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-12.27.05:535][215]PIE: New page: PIE session: TopDownExampleMap (17 апр. 2023 г., 18:27:05)
+[2023.04.17-12.27.05:535][215]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.27.05:543][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007880s)
+[2023.04.17-12.27.05:544][215]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-12.27.05:544][215]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2023.04.17-12.27.05:545][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008728s)
+[2023.04.17-12.27.05:548][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.04.17-12.27.05:549][215]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.04.17-12.27.05:549][215]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-12.27.05:549][215]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-12.27.05:549][215]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-12.27.05:549][215]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-12.27.05:549][215]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-12.27.05:549][215]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-12.27.05:549][215]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-12.27.05:549][215]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-12.27.05:549][215]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-12.27.05:549][215]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-12.27.05:549][215]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-12.27.05:549][215]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-12.27.05:551][215]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-12.27.05:551][215]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-12.27.05:560][215]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.04.17-12.27.05:560][215]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-12.27.05:560][215]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-12.27.05:560][215]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-12.27.05:561][215]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-12.27.05:561][215]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-12.27.05:561][215]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-12.27.05:561][215]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-12.27.05:562][215]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-12.27.05:562][215]LogInit: FAudioDevice initialized.
+[2023.04.17-12.27.05:562][215]LogAudio: Display: Audio Device (ID: 8) registered with world 'TopDownExampleMap'.
+[2023.04.17-12.27.05:572][215]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-12.27.05:574][215]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.17-15.27.05
+[2023.04.17-12.27.05:574][215]LogWorld: Bringing up level for play took: 0.000989
+[2023.04.17-12.27.05:574][215]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2023.04.17-12.27.05:575][215]PIE: Server logged in
+[2023.04.17-12.27.05:576][215]PIE: Play in editor total start time 0,041 seconds.
+[2023.04.17-12.27.13:119][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.27.13:119][113]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.27.13:119][113]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.27.13:119][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.27.13:130][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-12.27.13:161][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.27.13:165][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.27.13:165][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.27.13:165][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.27.13:169][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.04.17-12.27.13:194][114]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.04.17-12.27.20:332][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall5)
+[2023.04.17-12.27.21:922][148]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2023.04.17-12.27.29:257][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-12.27.29:260][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-12.27.29:260][ 13]PIE: New page: PIE session: TopDownExampleMap (17 апр. 2023 г., 18:27:29)
+[2023.04.17-12.27.29:260][ 13]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.27.29:267][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006983s)
+[2023.04.17-12.27.29:268][ 13]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-12.27.29:268][ 13]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2023.04.17-12.27.29:268][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.007910s)
+[2023.04.17-12.27.29:273][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.04.17-12.27.29:274][ 13]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.04.17-12.27.29:274][ 13]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-12.27.29:274][ 13]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-12.27.29:274][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-12.27.29:274][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-12.27.29:274][ 13]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-12.27.29:274][ 13]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-12.27.29:274][ 13]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-12.27.29:274][ 13]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-12.27.29:274][ 13]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-12.27.29:274][ 13]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-12.27.29:274][ 13]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-12.27.29:274][ 13]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-12.27.29:276][ 13]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-12.27.29:276][ 13]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-12.27.29:284][ 13]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.04.17-12.27.29:284][ 13]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-12.27.29:284][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-12.27.29:284][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-12.27.29:284][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-12.27.29:284][ 13]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-12.27.29:284][ 13]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-12.27.29:285][ 13]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-12.27.29:285][ 13]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-12.27.29:285][ 13]LogInit: FAudioDevice initialized.
+[2023.04.17-12.27.29:285][ 13]LogAudio: Display: Audio Device (ID: 9) registered with world 'TopDownExampleMap'.
+[2023.04.17-12.27.29:295][ 13]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-12.27.29:296][ 13]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.17-15.27.29
+[2023.04.17-12.27.29:296][ 13]LogWorld: Bringing up level for play took: 0.000982
+[2023.04.17-12.27.29:296][ 13]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2023.04.17-12.27.29:297][ 13]PIE: Server logged in
+[2023.04.17-12.27.29:297][ 13]PIE: Play in editor total start time 0,038 seconds.
+[2023.04.17-12.27.35:729][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.27.35:729][778]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.27.35:729][778]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.27.35:730][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.27.35:735][778]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-12.27.35:756][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.27.35:760][778]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.17-12.27.35:760][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.27.35:761][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.27.35:762][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.27.35:763][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.04.17-12.27.35:797][780]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.04.17-12.27.38:293][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.04.17-12.27.38:816][130]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2023.04.17-12.27.43:282][650]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2023.04.17-12.27.49:258][359]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-12.27.49:261][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-12.27.49:261][359]PIE: New page: PIE session: TopDownExampleMap (17 апр. 2023 г., 18:27:49)
+[2023.04.17-12.27.49:261][359]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.27.49:268][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006926s)
+[2023.04.17-12.27.49:269][359]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-12.27.49:269][359]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2023.04.17-12.27.49:269][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.007721s)
+[2023.04.17-12.27.49:275][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.04.17-12.27.49:276][359]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.04.17-12.27.49:276][359]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-12.27.49:276][359]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-12.27.49:276][359]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-12.27.49:276][359]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-12.27.49:276][359]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-12.27.49:276][359]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-12.27.49:276][359]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-12.27.49:276][359]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-12.27.49:276][359]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-12.27.49:276][359]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-12.27.49:276][359]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-12.27.49:276][359]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-12.27.49:277][359]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-12.27.49:277][359]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-12.27.49:285][359]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.04.17-12.27.49:285][359]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-12.27.49:285][359]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-12.27.49:285][359]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-12.27.49:285][359]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-12.27.49:285][359]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-12.27.49:285][359]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-12.27.49:287][359]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-12.27.49:287][359]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-12.27.49:287][359]LogInit: FAudioDevice initialized.
+[2023.04.17-12.27.49:287][359]LogAudio: Display: Audio Device (ID: 10) registered with world 'TopDownExampleMap'.
+[2023.04.17-12.27.49:295][359]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-12.27.49:296][359]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.17-15.27.49
+[2023.04.17-12.27.49:297][359]LogWorld: Bringing up level for play took: 0.000919
+[2023.04.17-12.27.49:297][359]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.04.17-12.27.49:298][359]PIE: Server logged in
+[2023.04.17-12.27.49:298][359]PIE: Play in editor total start time 0,038 seconds.
+[2023.04.17-12.27.55:621][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.27.55:938][154]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.27.56:246][191]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.27.56:538][226]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.27.56:838][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.27.57:163][301]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.27.57:480][339]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.27.57:805][378]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.27.58:121][416]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.27.58:437][454]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.27.58:746][491]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.27.59:054][528]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.27.59:413][571]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.27.59:713][607]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.28.00:072][650]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.28.00:404][690]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.28.00:721][728]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.28.01:038][766]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.28.01:395][809]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.28.01:571][830]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.28.03:188][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.28.03:188][ 20]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.28.03:189][ 20]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.28.03:190][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.28.03:197][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-12.28.03:226][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.28.03:230][ 20]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.17-12.28.03:230][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.28.03:231][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.28.03:233][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.28.03:234][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.04.17-12.28.03:270][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.04.17-12.28.19:496][235]LogSlate: Took 0.003607 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.17-12.28.28:603][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.04.17-12.28.28:628][262]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/TopDownExampleMap_Auto1FED21B3C4F353AFA864FA0A2208ACC23.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2023.04.17-12.28.28:629][262]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.032
+[2023.04.17-12.28.28:629][262]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2023.04.17-12.32.58:229][367]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-12.32.58:233][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-12.32.58:233][367]PIE: New page: PIE session: TopDownExampleMap (17 апр. 2023 г., 18:32:58)
+[2023.04.17-12.32.58:233][367]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.32.58:240][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007659s)
+[2023.04.17-12.32.58:241][367]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-12.32.58:241][367]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2023.04.17-12.32.58:241][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008604s)
+[2023.04.17-12.32.58:244][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.17-12.32.58:246][367]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.04.17-12.32.58:246][367]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-12.32.58:246][367]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-12.32.58:246][367]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-12.32.58:246][367]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-12.32.58:246][367]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-12.32.58:246][367]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-12.32.58:246][367]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-12.32.58:246][367]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-12.32.58:247][367]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-12.32.58:247][367]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-12.32.58:247][367]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-12.32.58:247][367]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-12.32.58:248][367]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-12.32.58:248][367]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-12.32.58:258][367]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.04.17-12.32.58:258][367]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-12.32.58:258][367]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-12.32.58:258][367]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-12.32.58:258][367]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-12.32.58:258][367]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-12.32.58:258][367]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-12.32.58:259][367]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-12.32.58:259][367]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-12.32.58:259][367]LogInit: FAudioDevice initialized.
+[2023.04.17-12.32.58:259][367]LogAudio: Display: Audio Device (ID: 11) registered with world 'TopDownExampleMap'.
+[2023.04.17-12.32.58:263][367]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-12.32.58:265][367]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.17-15.32.58
+[2023.04.17-12.32.58:265][367]LogWorld: Bringing up level for play took: 0.001097
+[2023.04.17-12.32.58:265][367]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.04.17-12.32.58:266][367]PIE: Server logged in
+[2023.04.17-12.32.58:267][367]PIE: Play in editor total start time 0,035 seconds.
+[2023.04.17-12.33.01:118][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.33.01:118][702]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.33.01:118][702]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.33.01:118][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.33.01:124][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-12.33.01:144][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.33.01:147][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.33.01:148][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.33.01:148][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.33.01:152][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.04.17-12.33.01:180][704]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.04.17-12.33.49:803][401]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2023.04.17-12.34.06:872][440]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-12.34.06:875][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-12.34.06:876][440]PIE: New page: PIE session: TopDownExampleMap (17 апр. 2023 г., 18:34:06)
+[2023.04.17-12.34.06:876][440]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.34.06:882][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006657s)
+[2023.04.17-12.34.06:882][440]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-12.34.06:883][440]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2023.04.17-12.34.06:883][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.007411s)
+[2023.04.17-12.34.06:887][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.17-12.34.06:889][440]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.04.17-12.34.06:889][440]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-12.34.06:889][440]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-12.34.06:889][440]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-12.34.06:889][440]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-12.34.06:889][440]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-12.34.06:889][440]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-12.34.06:889][440]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-12.34.06:889][440]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-12.34.06:889][440]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-12.34.06:889][440]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-12.34.06:889][440]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-12.34.06:889][440]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-12.34.06:891][440]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-12.34.06:891][440]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-12.34.06:899][440]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.04.17-12.34.06:899][440]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-12.34.06:899][440]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-12.34.06:899][440]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-12.34.06:899][440]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-12.34.06:899][440]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-12.34.06:899][440]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-12.34.06:900][440]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-12.34.06:900][440]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-12.34.06:900][440]LogInit: FAudioDevice initialized.
+[2023.04.17-12.34.06:900][440]LogAudio: Display: Audio Device (ID: 12) registered with world 'TopDownExampleMap'.
+[2023.04.17-12.34.06:907][440]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-12.34.06:908][440]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.17-15.34.06
+[2023.04.17-12.34.06:908][440]LogWorld: Bringing up level for play took: 0.000929
+[2023.04.17-12.34.06:908][440]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.04.17-12.34.06:910][440]PIE: Server logged in
+[2023.04.17-12.34.06:910][440]PIE: Play in editor total start time 0,035 seconds.
+[2023.04.17-12.34.08:778][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.34.08:778][659]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.34.08:778][659]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.34.08:778][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.34.08:786][659]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-12.34.08:793][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.34.08:797][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.34.08:797][659]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.34.08:798][659]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.34.08:801][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.04.17-12.34.08:862][661]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.04.17-12.34.10:986][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.04.17-12.34.11:752][999]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2023.04.17-12.34.35:444][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.04.17-12.34.36:704][704]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2023.04.17-12.34.46:041][818]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-12.34.46:044][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-12.34.46:044][818]PIE: New page: PIE session: TopDownExampleMap (17 апр. 2023 г., 18:34:46)
+[2023.04.17-12.34.46:044][818]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.34.46:051][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006917s)
+[2023.04.17-12.34.46:052][818]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-12.34.46:052][818]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2023.04.17-12.34.46:052][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.007765s)
+[2023.04.17-12.34.46:056][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.04.17-12.34.46:057][818]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.04.17-12.34.46:057][818]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-12.34.46:057][818]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-12.34.46:057][818]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-12.34.46:057][818]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-12.34.46:057][818]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-12.34.46:057][818]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-12.34.46:057][818]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-12.34.46:057][818]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-12.34.46:058][818]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-12.34.46:058][818]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-12.34.46:058][818]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-12.34.46:058][818]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-12.34.46:059][818]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-12.34.46:059][818]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-12.34.46:067][818]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.04.17-12.34.46:067][818]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-12.34.46:067][818]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-12.34.46:067][818]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-12.34.46:068][818]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-12.34.46:068][818]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-12.34.46:068][818]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-12.34.46:069][818]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-12.34.46:069][818]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-12.34.46:069][818]LogInit: FAudioDevice initialized.
+[2023.04.17-12.34.46:069][818]LogAudio: Display: Audio Device (ID: 13) registered with world 'TopDownExampleMap'.
+[2023.04.17-12.34.46:076][818]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-12.34.46:078][818]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.17-15.34.46
+[2023.04.17-12.34.46:078][818]LogWorld: Bringing up level for play took: 0.000981
+[2023.04.17-12.34.46:078][818]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.04.17-12.34.46:079][818]PIE: Server logged in
+[2023.04.17-12.34.46:080][818]PIE: Play in editor total start time 0,037 seconds.
+[2023.04.17-12.34.47:751][ 16]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.47:065][563]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.47:364][599]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.47:673][636]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.47:965][671]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.48:282][709]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.48:599][747]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.48:915][785]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.49:215][821]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.49:556][862]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.49:889][902]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.50:223][942]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.50:556][982]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.50:881][ 21]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.51:199][ 59]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.51:523][ 98]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.51:856][138]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.52:648][233]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.52:815][253]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.52:973][272]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.53:148][293]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.53:307][312]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.53:448][329]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.53:598][347]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.53:749][365]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.53:923][386]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.54:081][405]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.35.54:847][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.35.54:847][492]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.35.54:847][492]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.35.54:849][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.35.54:856][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-12.35.54:863][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.35.54:868][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.35.54:868][492]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.35.54:869][492]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.35.54:874][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.04.17-12.35.54:931][495]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.04.17-12.36.44:020][133]LogActorFactory: Actor Factory created Cube
+[2023.04.17-12.36.44:371][173]LogActorFactory: Actor Factory created Cube
+[2023.04.17-12.37.14:425][732]Cmd: EDIT COPY
+[2023.04.17-12.37.14:668][761]Cmd: EDIT PASTE
+[2023.04.17-12.37.18:819][257]Cmd: EDIT COPY
+[2023.04.17-12.37.19:211][304]Cmd: EDIT PASTE
+[2023.04.17-12.37.33:737][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.04.17-12.37.34:517][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2023.04.17-12.37.38:416][594]Cmd: EDIT COPY
+[2023.04.17-12.37.38:666][624]Cmd: EDIT PASTE
+[2023.04.17-12.37.41:909][984]Cmd: EDIT COPY
+[2023.04.17-12.37.42:284][ 29]Cmd: EDIT PASTE
+[2023.04.17-12.37.49:202][814]Cmd: EDIT COPY
+[2023.04.17-12.37.49:568][858]Cmd: EDIT PASTE
+[2023.04.17-12.38.07:955][979]Cmd: DELETE
+[2023.04.17-12.38.07:955][979]Cmd: ACTOR DELETE
+[2023.04.17-12.38.07:957][979]LogEditorActor: Deleted Actor: Character
+[2023.04.17-12.38.07:961][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.04.17-12.38.07:963][979]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2023.04.17-12.38.26:829][237]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/DODIK.DODIK
+[2023.04.17-12.38.27:261][237]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0003 seconds. Added 126 classes and 0 folders.
+[2023.04.17-12.38.27:932][237]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.04.17-12.38.36:083][203]LogSlate: Window 'DODIK' being destroyed
+[2023.04.17-12.38.36:087][203]LogSlate: Window 'DODIK' being destroyed
+[2023.04.17-12.38.36:089][203]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.38.36:089][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.38.36:994][303]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/AIControllerMOI.AIControllerMOI
+[2023.04.17-12.38.51:487][989]LogSlate: Window 'AIControllerMOI' being destroyed
+[2023.04.17-12.38.51:490][989]LogSlate: Window 'AIControllerMOI' being destroyed
+[2023.04.17-12.38.51:492][989]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.38.51:492][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.39.23:606][  3]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2023.04.17-12.39.32:492][ 61]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-12.39.32:494][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-12.39.32:494][ 61]PIE: New page: PIE session: TopDownExampleMap (17 апр. 2023 г., 18:39:32)
+[2023.04.17-12.39.32:494][ 61]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.39.32:503][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007735s)
+[2023.04.17-12.39.32:503][ 61]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-12.39.32:503][ 61]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2023.04.17-12.39.32:503][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008688s)
+[2023.04.17-12.39.32:518][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.04.17-12.39.32:521][ 61]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.04.17-12.39.32:521][ 61]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-12.39.32:521][ 61]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-12.39.32:521][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-12.39.32:521][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-12.39.32:521][ 61]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-12.39.32:521][ 61]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-12.39.32:521][ 61]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-12.39.32:521][ 61]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-12.39.32:521][ 61]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-12.39.32:521][ 61]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-12.39.32:521][ 61]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-12.39.32:521][ 61]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-12.39.32:523][ 61]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-12.39.32:523][ 61]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-12.39.32:531][ 61]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.04.17-12.39.32:531][ 61]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-12.39.32:531][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-12.39.32:531][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-12.39.32:532][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-12.39.32:532][ 61]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-12.39.32:532][ 61]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-12.39.32:532][ 61]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-12.39.32:532][ 61]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-12.39.32:532][ 61]LogInit: FAudioDevice initialized.
+[2023.04.17-12.39.32:532][ 61]LogAudio: Display: Audio Device (ID: 14) registered with world 'TopDownExampleMap'.
+[2023.04.17-12.39.32:542][ 61]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-12.39.32:543][ 61]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.17-15.39.32
+[2023.04.17-12.39.32:544][ 61]LogWorld: Bringing up level for play took: 0.001279
+[2023.04.17-12.39.32:544][ 61]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2023.04.17-12.39.32:546][ 61]PIE: Server logged in
+[2023.04.17-12.39.32:546][ 61]PIE: Play in editor total start time 0,052 seconds.
+[2023.04.17-12.39.37:566][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.39.37:566][656]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.39.37:566][656]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.39.37:566][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.39.37:570][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-12.39.37:580][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.39.37:589][656]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.17-12.39.37:590][656]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.39.37:591][656]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.39.37:593][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.39.37:594][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.04.17-12.39.37:653][659]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.04.17-12.39.40:778][ 32]Cmd: EDIT COPY
+[2023.04.17-12.39.41:301][ 93]Cmd: EDIT PASTE
+[2023.04.17-12.39.42:649][252]Cmd: EDIT COPY
+[2023.04.17-12.39.42:867][278]Cmd: EDIT PASTE
+[2023.04.17-12.39.46:407][695]Cmd: EDIT COPY
+[2023.04.17-12.39.47:283][800]Cmd: EDIT PASTE
+[2023.04.17-12.39.57:808][ 49]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-12.39.57:811][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-12.39.57:811][ 49]PIE: New page: PIE session: TopDownExampleMap (17 апр. 2023 г., 18:39:57)
+[2023.04.17-12.39.57:811][ 49]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.39.57:818][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007256s)
+[2023.04.17-12.39.57:818][ 49]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-12.39.57:818][ 49]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2023.04.17-12.39.57:818][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008044s)
+[2023.04.17-12.39.57:828][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.04.17-12.39.57:832][ 49]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.04.17-12.39.57:832][ 49]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-12.39.57:832][ 49]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-12.39.57:832][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-12.39.57:832][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-12.39.57:832][ 49]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-12.39.57:832][ 49]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-12.39.57:832][ 49]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-12.39.57:832][ 49]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-12.39.57:832][ 49]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-12.39.57:832][ 49]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-12.39.57:832][ 49]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-12.39.57:832][ 49]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-12.39.57:834][ 49]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-12.39.57:834][ 49]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-12.39.57:842][ 49]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.04.17-12.39.57:842][ 49]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-12.39.57:842][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-12.39.57:842][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-12.39.57:843][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-12.39.57:843][ 49]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-12.39.57:843][ 49]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-12.39.57:843][ 49]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-12.39.57:843][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-12.39.57:843][ 49]LogInit: FAudioDevice initialized.
+[2023.04.17-12.39.57:843][ 49]LogAudio: Display: Audio Device (ID: 15) registered with world 'TopDownExampleMap'.
+[2023.04.17-12.39.57:850][ 49]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-12.39.57:852][ 49]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.17-15.39.57
+[2023.04.17-12.39.57:852][ 49]LogWorld: Bringing up level for play took: 0.001242
+[2023.04.17-12.39.57:852][ 49]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2023.04.17-12.39.57:854][ 49]PIE: Server logged in
+[2023.04.17-12.39.57:855][ 49]PIE: Play in editor total start time 0,045 seconds.
+[2023.04.17-12.40.00:426][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.40.00:426][350]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.40.00:426][350]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.40.00:427][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.40.00:434][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-12.40.00:447][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.40.00:456][350]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.17-12.40.00:456][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.40.00:457][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.40.00:459][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.40.00:461][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.04.17-12.40.00:487][352]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.04.17-12.40.25:057][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.04.17-12.40.25:072][546]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/TopDownExampleMap_Auto203BDFA464842E8F4D4BC118043A9D070.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2023.04.17-12.40.25:073][546]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.027
+[2023.04.17-12.40.25:073][546]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2023.04.17-12.40.37:337][583]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.17-12.40.37:337][583]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.17-12.40.37:472][585]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/AIControllerMOI.AIControllerMOI
+[2023.04.17-12.40.54:813][599]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::RandomInteger' [Не найден указанный модуль.]
+[2023.04.17-12.41.02:669][505]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-12.41.02:672][505]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.17-12.41.02:672][505]LogPlayLevel: [PlayLevel] Compiling AIControllerMOI before play...
+[2023.04.17-12.41.02:693][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.04.17-12.41.02:693][505]LogPlayLevel: PlayLevel: Blueprint regeneration took 21 ms (1 blueprints)
+[2023.04.17-12.41.02:694][505]PIE: New page: PIE session: TopDownExampleMap (17 апр. 2023 г., 18:41:02)
+[2023.04.17-12.41.02:694][505]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.41.02:701][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007198s)
+[2023.04.17-12.41.02:701][505]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-12.41.02:702][505]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2023.04.17-12.41.02:702][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008008s)
+[2023.04.17-12.41.02:713][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.04.17-12.41.02:713][505]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.04.17-12.41.02:713][505]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-12.41.02:713][505]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-12.41.02:713][505]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-12.41.02:713][505]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-12.41.02:713][505]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-12.41.02:713][505]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-12.41.02:713][505]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-12.41.02:713][505]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-12.41.02:713][505]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-12.41.02:713][505]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-12.41.02:713][505]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-12.41.02:713][505]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-12.41.02:714][505]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-12.41.02:714][505]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-12.41.02:722][505]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.04.17-12.41.02:722][505]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-12.41.02:722][505]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-12.41.02:722][505]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-12.41.02:722][505]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-12.41.02:722][505]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-12.41.02:722][505]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-12.41.02:724][505]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-12.41.02:724][505]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-12.41.02:724][505]LogInit: FAudioDevice initialized.
+[2023.04.17-12.41.02:724][505]LogAudio: Display: Audio Device (ID: 16) registered with world 'TopDownExampleMap'.
+[2023.04.17-12.41.02:737][505]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-12.41.02:739][505]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.17-15.41.02
+[2023.04.17-12.41.02:739][505]LogWorld: Bringing up level for play took: 0.001754
+[2023.04.17-12.41.02:740][505]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2023.04.17-12.41.02:741][505]PIE: Server logged in
+[2023.04.17-12.41.02:742][505]PIE: Play in editor total start time 0,07 seconds.
+[2023.04.17-12.41.07:863][115]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.41.17:097][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.41.17:097][219]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.41.17:097][219]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.41.17:098][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.41.17:105][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-12.41.17:115][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.41.17:126][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.41.17:126][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.41.17:127][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.41.17:131][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.04.17-12.41.17:177][222]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.04.17-12.41.53:308][957]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.17-12.41.53:308][957]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.17-12.41.54:244][ 69]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.17-12.41.54:244][ 69]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.17-12.42.32:172][604]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-12.42.32:176][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-12.42.32:176][604]PIE: New page: PIE session: TopDownExampleMap (17 апр. 2023 г., 18:42:32)
+[2023.04.17-12.42.32:176][604]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.42.32:184][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007958s)
+[2023.04.17-12.42.32:184][604]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-12.42.32:184][604]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2023.04.17-12.42.32:184][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008754s)
+[2023.04.17-12.42.32:196][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.04.17-12.42.32:196][604]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.04.17-12.42.32:196][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-12.42.32:196][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-12.42.32:197][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-12.42.32:197][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-12.42.32:197][604]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-12.42.32:197][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-12.42.32:197][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-12.42.32:197][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-12.42.32:197][604]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-12.42.32:197][604]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-12.42.32:197][604]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-12.42.32:197][604]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-12.42.32:199][604]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-12.42.32:199][604]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-12.42.32:207][604]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.04.17-12.42.32:208][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-12.42.32:208][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-12.42.32:208][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-12.42.32:208][604]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-12.42.32:208][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-12.42.32:208][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-12.42.32:209][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-12.42.32:209][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-12.42.32:209][604]LogInit: FAudioDevice initialized.
+[2023.04.17-12.42.32:209][604]LogAudio: Display: Audio Device (ID: 17) registered with world 'TopDownExampleMap'.
+[2023.04.17-12.42.32:218][604]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-12.42.32:219][604]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.17-15.42.32
+[2023.04.17-12.42.32:220][604]LogWorld: Bringing up level for play took: 0.001402
+[2023.04.17-12.42.32:220][604]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2023.04.17-12.42.32:222][604]PIE: Server logged in
+[2023.04.17-12.42.32:222][604]PIE: Play in editor total start time 0,047 seconds.
+[2023.04.17-12.42.43:215][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.42.43:215][752]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.42.43:216][752]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.42.43:216][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.42.43:220][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-12.42.43:230][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.42.43:240][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.42.43:240][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.42.43:241][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.42.43:244][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.04.17-12.42.43:310][755]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.04.17-12.42.59:915][706]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-12.42.59:918][706]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.17-12.42.59:918][706]LogPlayLevel: [PlayLevel] Compiling AIControllerMOI before play...
+[2023.04.17-12.42.59:940][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.04.17-12.42.59:941][706]LogPlayLevel: PlayLevel: Blueprint regeneration took 22 ms (1 blueprints)
+[2023.04.17-12.42.59:941][706]PIE: New page: PIE session: TopDownExampleMap (17 апр. 2023 г., 18:42:59)
+[2023.04.17-12.42.59:941][706]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.42.59:948][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007045s)
+[2023.04.17-12.42.59:948][706]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-12.42.59:948][706]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2023.04.17-12.42.59:948][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.007780s)
+[2023.04.17-12.42.59:959][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.04.17-12.42.59:960][706]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.04.17-12.42.59:960][706]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-12.42.59:960][706]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-12.42.59:960][706]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-12.42.59:960][706]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-12.42.59:960][706]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-12.42.59:960][706]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-12.42.59:960][706]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-12.42.59:960][706]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-12.42.59:960][706]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-12.42.59:960][706]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-12.42.59:960][706]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-12.42.59:960][706]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-12.42.59:961][706]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-12.42.59:961][706]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-12.42.59:970][706]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.04.17-12.42.59:970][706]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-12.42.59:970][706]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-12.42.59:970][706]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-12.42.59:970][706]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-12.42.59:970][706]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-12.42.59:970][706]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-12.42.59:971][706]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-12.42.59:971][706]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-12.42.59:971][706]LogInit: FAudioDevice initialized.
+[2023.04.17-12.42.59:971][706]LogAudio: Display: Audio Device (ID: 18) registered with world 'TopDownExampleMap'.
+[2023.04.17-12.42.59:982][706]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-12.42.59:984][706]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.17-15.42.59
+[2023.04.17-12.42.59:984][706]LogWorld: Bringing up level for play took: 0.001240
+[2023.04.17-12.42.59:984][706]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2023.04.17-12.42.59:986][706]PIE: Server logged in
+[2023.04.17-12.42.59:986][706]PIE: Play in editor total start time 0,069 seconds.
+[2023.04.17-12.43.01:763][880]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:NavigationSystemV1_0 Controller:AIControllerMOI_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2023.04.17-12.43.08:655][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.43.08:655][536]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.43.08:655][536]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.43.08:656][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.43.08:665][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-12.43.08:674][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.43.08:684][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.43.08:684][536]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.43.08:685][536]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.43.08:689][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.04.17-12.43.08:746][539]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.04.17-12.44.12:004][ 42]LogSlate: Took 0.003435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.04.17-12.44.59:432][636]BlueprintLog: New page: Compile AIControllerMOI
+[2023.04.17-12.44.59:452][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.04.17-12.45.00:443][752]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-12.45.00:446][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-12.45.00:446][752]PIE: New page: PIE session: TopDownExampleMap (17 апр. 2023 г., 18:45:00)
+[2023.04.17-12.45.00:446][752]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.45.00:453][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007205s)
+[2023.04.17-12.45.00:454][752]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-12.45.00:454][752]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2023.04.17-12.45.00:454][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008068s)
+[2023.04.17-12.45.00:465][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.04.17-12.45.00:465][752]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.04.17-12.45.00:465][752]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-12.45.00:465][752]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-12.45.00:465][752]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-12.45.00:465][752]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-12.45.00:465][752]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-12.45.00:465][752]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-12.45.00:465][752]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-12.45.00:465][752]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-12.45.00:466][752]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-12.45.00:466][752]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-12.45.00:466][752]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-12.45.00:466][752]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-12.45.00:467][752]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-12.45.00:467][752]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-12.45.00:477][752]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.04.17-12.45.00:477][752]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-12.45.00:477][752]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-12.45.00:477][752]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-12.45.00:477][752]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-12.45.00:477][752]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-12.45.00:477][752]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-12.45.00:478][752]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-12.45.00:478][752]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-12.45.00:478][752]LogInit: FAudioDevice initialized.
+[2023.04.17-12.45.00:478][752]LogAudio: Display: Audio Device (ID: 19) registered with world 'TopDownExampleMap'.
+[2023.04.17-12.45.00:490][752]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-12.45.00:491][752]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.17-15.45.00
+[2023.04.17-12.45.00:492][752]LogWorld: Bringing up level for play took: 0.001222
+[2023.04.17-12.45.00:492][752]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2023.04.17-12.45.00:494][752]PIE: Server logged in
+[2023.04.17-12.45.00:494][752]PIE: Play in editor total start time 0,049 seconds.
+[2023.04.17-12.45.05:852][391]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.45.06:002][409]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.45.06:335][449]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.45.07:102][541]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.45.07:244][558]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.45.07:861][632]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.45.08:310][686]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.45.08:619][723]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.45.08:936][761]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.45.09:686][851]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.45.56:669][809]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.45.57:519][911]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.45.57:685][931]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.45.58:318][  7]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.45.59:228][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.46.06:274][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.46.06:275][958]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.46.06:275][958]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.46.06:277][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.46.06:282][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-12.46.06:292][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.46.06:303][958]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.17-12.46.06:303][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.46.06:304][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.46.06:306][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.46.06:309][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.04.17-12.46.06:357][961]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.04.17-12.46.07:474][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.04.17-12.46.08:205][179]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2023.04.17-12.47.39:195][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.04.17-12.48.32:952][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.04.17-12.48.33:577][927]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-12.48.33:580][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-12.48.33:580][927]PIE: New page: PIE session: TopDownExampleMap (17 апр. 2023 г., 18:48:33)
+[2023.04.17-12.48.33:580][927]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.48.33:589][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008442s)
+[2023.04.17-12.48.33:590][927]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.04.17-12.48.33:590][927]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2023.04.17-12.48.33:590][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009427s)
+[2023.04.17-12.48.33:601][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.04.17-12.48.33:603][927]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.04.17-12.48.33:603][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-12.48.33:603][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-12.48.33:603][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-12.48.33:604][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-12.48.33:604][927]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-12.48.33:604][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-12.48.33:604][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-12.48.33:604][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-12.48.33:604][927]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-12.48.33:604][927]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-12.48.33:604][927]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-12.48.33:604][927]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-12.48.33:606][927]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-12.48.33:606][927]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-12.48.33:615][927]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.04.17-12.48.33:615][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-12.48.33:615][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-12.48.33:615][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-12.48.33:616][927]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-12.48.33:616][927]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-12.48.33:616][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-12.48.33:616][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-12.48.33:616][927]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-12.48.33:616][927]LogInit: FAudioDevice initialized.
+[2023.04.17-12.48.33:616][927]LogAudio: Display: Audio Device (ID: 20) registered with world 'TopDownExampleMap'.
+[2023.04.17-12.48.33:621][927]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.04.17-12.48.33:623][927]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2023.04.17-15.48.33
+[2023.04.17-12.48.33:623][927]LogWorld: Bringing up level for play took: 0.001461
+[2023.04.17-12.48.33:624][927]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2023.04.17-12.48.33:625][927]PIE: Server logged in
+[2023.04.17-12.48.33:626][927]PIE: Play in editor total start time 0,046 seconds.
+[2023.04.17-12.48.35:084][100]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.48.36:026][213]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.48.38:993][569]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1047.729 Y=-30.000 Z=265.571] for [DODIK_C]
+[2023.04.17-12.48.43:415][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.48.43:415][ 94]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.04.17-12.48.43:415][ 94]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.48.43:417][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.48.43:424][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-12.48.43:433][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-12.48.43:445][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-12.48.43:445][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.48.43:446][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-12.48.43:450][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.04.17-12.48.43:477][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.04.17-12.52.15:569][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.04.17-12.52.15:571][503]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.017
+[2023.04.17-12.52.15:571][503]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/AIControllerMOI] ([2] browsable assets)...
+[2023.04.17-12.52.15:571][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AIControllerMOI]
+[2023.04.17-12.52.15:571][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIControllerMOI" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/AI/AIControllerMOI_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.04.17-12.52.15:575][503]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/AIControllerMOI_Auto3C1B2F490467F47D4EC72F8B309E015D6.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/AI/AIControllerMOI_Auto3.uasset'
+[2023.04.17-12.52.15:576][503]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.04.17-12.59.37:526][ 23]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/DODIK.DODIK
+[2023.04.17-12.59.45:334][919]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-12.59.45:334][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-13.11.47:558][186]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.17-13.11.47:558][186]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.17-13.12.53:051][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.04.17-13.12.53:053][162]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.017
+[2023.04.17-13.12.53:053][162]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/AIControllerMOI] ([2] browsable assets)...
+[2023.04.17-13.12.53:053][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AIControllerMOI]
+[2023.04.17-13.12.53:053][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIControllerMOI" FILE="C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/AI/AIControllerMOI_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.04.17-13.12.53:058][162]LogSavePackage: Moving 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/AIControllerMOI_Auto469B8FCB54BBDC5664EC0709158CA529E.tmp' to 'C:/Users/shelk/OneDrive/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/AI/AIControllerMOI_Auto4.uasset'
+[2023.04.17-13.12.53:059][162]LogFileHelpers: Auto-saving content packages took 0.006
